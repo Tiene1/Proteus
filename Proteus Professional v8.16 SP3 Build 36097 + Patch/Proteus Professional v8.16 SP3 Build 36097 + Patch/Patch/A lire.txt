@@ -1,0 +1,10 @@
+Instructions d’installation pour Proteus Professional v8.16 SP3 :
+
+1. Déconnectez-vous d’Internet
+2. Extrayez tous les fichiers de l’archive Fix.zip vers un emplacement connu.
+3. Lancez l’installation proteus8.16.SP3.exe
+4. Lors de l’installation, sélectionnez et installez le fichier de licence Licence2.lxk
+5. Continuez l’installation et après l’avoir terminée, NE DÉMARREZ PAS LE PROGRAMME !
+6. Appliquez Patch-Proteus-8.16-SP3-36097.0.exe patch.
+7. Vous pouvez maintenant allumer Internet et démarrer le programme Proteus.
+(Veuillez noter que ce patch ne fonctionne pas sous WinXP, Win7)
